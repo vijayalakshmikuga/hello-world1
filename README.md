@@ -1,2 +1,5 @@
 # hello-world1
-another repository
+hi!
+this is viji
+im studying in pec
+department of cse
